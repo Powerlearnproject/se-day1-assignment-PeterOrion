@@ -7,7 +7,7 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a discipline that applies engineering principles to create, design, test, deploy, and maintain software systems. 
-Importance in the Technology Industry
+    Importance in the Technology Industry
 Ensures Software Reliability & Quality – Software engineering practices help create robust applications that run correctly and efficiently.
 Scalability & Maintainability – Well-engineered software can be updated and built upon without frustration, meaning that it is capable of being utilized for extended spans of time.
 Cost & Time Efficiency – Following standard methodologies like Agile or DevOps keeps costs low and quickly delivers the product.
@@ -15,11 +15,21 @@ Security & Risk Management – Security features are put in place to protect sof
 Drives Innovation – From machine learning to cloud computing, software engineering propels the revolution in innovation.
 Enhances User Experience – Well-designed software optimizes usability, performance, and accessibility for end users.
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+   Identify and describe at least three key milestones in the evolution of software engineering.
+1968: Birth of Software Engineering – Coined at the NATO Conference to address the "software crisis" by promoting structured programming and systematic development.
 
+1970s–1980s: Rise of OOP – Object-oriented programming (OOP) introduced concepts like encapsulation and inheritance, improving code reuse and maintainability (e.g., Smalltalk, C++).
+
+2001: Agile Revolution – The Agile Manifesto introduced iterative development, flexibility, and customer collaboration, leading to popular frameworks like Scrum and Kanban.
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Planning – Defines project scope, feasibility, resources, and risks.
+Requirements Analysis – Gathers and documents user needs and system requirements.
+Design – Creates system architecture, UI design, and database structure.
+Implementation (Coding) – Developers write and integrate code based on the design.
+Testing – Identifies and fixes bugs to ensure functionality and performance.
+Deployment – Releases the software for users, either as a full launch or phased rollout.
+Maintenance – Provides updates, bug fixes, and improvements post-deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
